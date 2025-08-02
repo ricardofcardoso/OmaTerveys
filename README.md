@@ -32,18 +32,6 @@ Inspired by Mehiläinen’s OmaMehiläinen, it allows users to track mood, sleep
 
 ---
 
-## 📂 Project Structure
-
-├── data/ # Room DB, models, repositories
-├── domain/ # Use cases (planned)
-├── ui/ # Compose screens and UI logic
-├── viewmodel/ # ViewModel classes
-├── di/ # Hilt modules (planned)
-├── MainActivity.kt
-└── README.md
-
----
-
 ## 📦 Requirements
 
 - Android Studio Hedgehog or newer
